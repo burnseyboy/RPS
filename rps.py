@@ -30,6 +30,7 @@ def main():
             print("\n-Type 'r', 'p' or 's' to select Rock, Paper and Scissors respectively.")
             print("-Type 'l' or 'sp' to select Lizard or Spock when playing the Lizard Spock mode.")
             print("-Rounds are replayed in the event of a draw.")
+            print("-Use fast mode to significantly reduce the pause timers between game outputs.")
             print("-Type 'x' during the game to exit back to the menu.")
 
         elif selected == "4":
