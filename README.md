@@ -6,4 +6,4 @@ Contains just one .py file to be run with any interpreter.
 -Menu navigation.\
 -Standard game of rock paper scissors.\
 -Option to play rock paper scissors lizard Spock.\
--Round-based matches of any length.\
+-Round-based matches of any length.
