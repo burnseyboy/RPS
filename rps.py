@@ -94,7 +94,7 @@ def playGame(ruleset, weaponDict, fastmode):
             #retrieve player choice and generate CPU choice
             playerChoice = input("Enter your choice: ").lower()
             while playerChoice not in weaponKeys and playerChoice != "x":
-                playerChoice = input("Enter a valid choice ('r', 'p' or 's'): ").lower()
+                playerChoice = input("Please enter a valid choice: ").lower()
             cpuChoice = random.choice(weaponKeys)
 
             #check for exit
